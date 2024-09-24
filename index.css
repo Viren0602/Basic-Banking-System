@@ -52,7 +52,7 @@ body {
 
 /* Logo specific styles */
 .navbar-brand img {
-    height: 80px; /* Adjust the height of the logo */
+    height: 85px; /* Adjust the height of the logo */
     width: auto;
     max-width: 800px; /* Restrict the maximum width */
     margin-right: 10px; /* Add space between logo and text (if any) */
